@@ -1,6 +1,5 @@
-# EECS_coding_practice
+# EECS_coding_practice - Repo to Record Your Trip towards GEEK
 
-# Repo to Record Your Trip towards GEEK
 ## How to use
 If you are interested in participate in this repo, please kindly make a new branch, it's a good way
 to make the management more clear and easier.
